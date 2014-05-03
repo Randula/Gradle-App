@@ -1,0 +1,18 @@
+##########################################################################
+###############    Gradle Sample Spring MVC Application   ################
+##########################################################################
+
+
+Install and Build Application
+
+Build
+-----
+gradle clean build
+
+Start web app
+-------------
+gradle jettyRunWar
+
+View Page
+---------
+http://localhost:8080/home.htm
